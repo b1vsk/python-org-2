@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 968px) {
+	#paragraph-main {
+		font-size: 23px;
+	}
+}
+
+@media screen and (max-width: 900px) {
+	#paragraph-main {
+		font-size: 18px;
+	}
+}

@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.button:hover {
+	transition: 0.25s ease-in-out;
+	box-shadow: 0px -4px 4px #202020 inset;
+}

@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 968px) {
+    #container-zen {
+        transition: 0.35s ease-in-out;
+        width: 730px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #container-zen {
+        transition: 0.35s ease-in-out;
+        width: 430px;
+        margin: 0 auto;
+    }
+}

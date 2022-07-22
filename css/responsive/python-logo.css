@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+@media screen and (max-width:  968px) {
+	#logo {
+		transition:  0.30s ease-in-out;
+		width: 170px;
+	}
+}

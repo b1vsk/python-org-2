@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+#btn-version-py:hover {
+	transition: 0.25s ease-in-out;
+	box-shadow: 0px -4px 5px #646464 inset;
+}
+#btn-dark-theme:hover{
+	transition: 0.25s ease-in-out;
+	box-shadow: 0px -4px 5px #646464 inset;
+}
